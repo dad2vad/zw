@@ -1,0 +1,13 @@
+{
+  "name": "cloudflare-worker-github-oauth-login",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A Cloudflare Worker + GitHub Pages Login Example",
+  "main": "github-oauth-login.js",
+
+  "release": {
+    "branches": [
+      "main"
+    ]
+  }
+}
